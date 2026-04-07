@@ -1,7 +1,11 @@
 aid: cabot
-url: https://raw.githubusercontent.com/api-evangelist/cabot/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/cabot/refs/heads/main/apis.yml
 modified: '2026-03-23'
 apis: []
 common:
   - type: Website
     url: https://www.cabot.com
+description: >-
+  Welcome to The Cabot Collection. Explore Cabot’s properties all over the world and
+  experience some of the best golf courses in the world.
