@@ -9,7 +9,7 @@ tags:
   - Manufacturing
   - Company
 type: Index
-x-type: company
+kind: company
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 access: 3rd-Party
 created: '2026-03-23'
@@ -61,7 +61,7 @@ common:
     url: https://www.cabotcorp.com/company/newsroom
   - type: Careers
     url: https://www.cabotcorp.com/company/careers
-  - type: Privacy Policy
+  - type: PrivacyPolicy
     url: https://www.cabotcorp.com/information/privacy-policy
 maintainers:
   - FN: Kin Lane
