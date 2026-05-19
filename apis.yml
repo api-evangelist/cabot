@@ -49,6 +49,8 @@ apis:
       currently documented; corporate, investor, sustainability, newsroom,
       and careers properties are published online.
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/cabot-corporation
   - type: Website
     url: https://www.cabotcorp.com
   - type: Solutions
