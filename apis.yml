@@ -50,6 +50,8 @@ apis:
       currently documented; corporate, investor, sustainability, newsroom,
       and careers properties are published online.
 common:
+  - type: DomainSecurity
+    url: security/cabot-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/cabot-corporation
   - type: Website
