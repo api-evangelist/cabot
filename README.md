@@ -25,10 +25,6 @@ Cabot Corporation is a global specialty chemicals and performance materials comp
 
 ## APIs
 
-### Cabot Corporation
-Cabot Corporation manufactures specialty chemicals and performance materials including carbon black, fumed silica, aerogels, inkjet colorants, and elastomer composites. No public developer API is currently documented.
-
-**Human URL:** [https://www.cabotcorp.com](https://www.cabotcorp.com)
 
 ## Common Properties
 
