@@ -1,7 +1,9 @@
 ---
 title: Dr. CaBot presents a case [VIDEO]
 url: https://www.eurekalert.org/multimedia/1095666
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Cabot" press release artificial intelligence'
 position: 4
 source: serpapi-google

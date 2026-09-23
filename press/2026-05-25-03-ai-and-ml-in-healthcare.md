@@ -1,7 +1,9 @@
 ---
 title: AI and ML in Healthcare
 url: https://www.cabotsolutions.com/ai-ml
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Cabot" press release artificial intelligence'
 position: 3
 source: serpapi-google

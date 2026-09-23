@@ -1,7 +1,9 @@
 ---
 title: Cabot Corporation Selects Cognizant to Transform its ...
 url: https://www.prnewswire.com/news-releases/cabot-corporation-selects-cognizant-to-transform-its-digital-operating-model-301407994.html
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Cabot" press release artificial intelligence'
 position: 1
 source: serpapi-google
