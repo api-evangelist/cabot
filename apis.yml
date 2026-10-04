@@ -1,7 +1,7 @@
 aid: cabot
 url: >-
   https://raw.githubusercontent.com/api-evangelist/cabot/refs/heads/main/apis.yml
-name: Cabot Corporation
+name: Cabot
 tags:
   - Specialty Chemicals
   - Performance Materials
@@ -69,3 +69,4 @@ maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
 specificationVersion: '0.23'
+x-legal-name: Cabot Corporation
