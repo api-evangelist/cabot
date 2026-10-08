@@ -47,6 +47,12 @@ description: >-
   composites.
 apis: []
 common:
+  - type: Plans
+    url: plans/cabot-plans-pricing.yml
+  - type: RateLimits
+    url: rate-limits/cabot-rate-limits.yml
+  - type: FinOps
+    url: finops/cabot-finops.yml
   - type: DomainSecurity
     url: security/cabot-domain-security.yml
   - type: LinkedIn
